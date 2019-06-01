@@ -1,0 +1,2 @@
+Django==2.2.1
+django-modeltranslation==0.13.1

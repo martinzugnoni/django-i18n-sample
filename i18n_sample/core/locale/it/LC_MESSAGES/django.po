@@ -1,0 +1,5 @@
+msgid "Home"
+msgstr "Iniziazione"
+
+msgid "About"
+msgstr "Riguardo A Noi"
